@@ -9,6 +9,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 > ed25519为加密算法
+> 
 > 按Enter接受默认位置
 > 设置密码（可选）
 
