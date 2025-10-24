@@ -33,7 +33,7 @@ cat ~/.ssh/id_ed25519.pub
 >> Title: My Ubuntu Laptop（任意描述）
 >> 
 >> Key type: Authentication Key
-
+>> 
 >> Key: 粘贴刚才复制的整个公钥内容
 
 
