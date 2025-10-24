@@ -22,9 +22,6 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 cat ~/.ssh/id_ed25519.pub
 ```
 
-> github.com → 右上角个人头像 → Settings → 左侧SSH and GPG keys → New SSH key → 粘贴上一步的内容
-> 在GitHub上的操作：
->
 > 登录 GitHub → 点击右上角头像 → Settings
 >
 > 左侧菜单 → SSH and GPG keys
@@ -33,11 +30,11 @@ cat ~/.ssh/id_ed25519.pub
 >
 > 填写：
 
-        Title: My Ubuntu Laptop（任意描述）
+Title: My Ubuntu Laptop（任意描述）
 
-        Key type: Authentication Key
+Key type: Authentication Key
 
-        Key: 粘贴刚才复制的整个公钥内容
+Key: 粘贴刚才复制的整个公钥内容
 
 
 3. 测试连接
