@@ -29,12 +29,12 @@ cat ~/.ssh/id_ed25519.pub
 > 点击 New SSH key
 >
 > 填写：
+> 
+>> Title: My Ubuntu Laptop（任意描述）
+>> 
+>> Key type: Authentication Key
 
-Title: My Ubuntu Laptop（任意描述）
-
-Key type: Authentication Key
-
-Key: 粘贴刚才复制的整个公钥内容
+>> Key: 粘贴刚才复制的整个公钥内容
 
 
 3. 测试连接
